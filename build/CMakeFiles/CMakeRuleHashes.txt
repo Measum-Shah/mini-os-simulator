@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+5c15d98501b95eb8d82bfd3e47a781dc CMakeFiles/MiniOS_autogen
+5c15d98501b95eb8d82bfd3e47a781dc CMakeFiles/MiniOS_autogen_timestamp_deps
+9386c5e94651c1ee91cf350a12ce468a MiniOS_autogen/timestamp

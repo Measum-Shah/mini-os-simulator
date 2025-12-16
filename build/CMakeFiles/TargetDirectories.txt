@@ -1,0 +1,5 @@
+/home/measum-shah/MiniOS-Desktop/build/CMakeFiles/MiniOS.dir
+/home/measum-shah/MiniOS-Desktop/build/CMakeFiles/edit_cache.dir
+/home/measum-shah/MiniOS-Desktop/build/CMakeFiles/rebuild_cache.dir
+/home/measum-shah/MiniOS-Desktop/build/CMakeFiles/MiniOS_autogen_timestamp_deps.dir
+/home/measum-shah/MiniOS-Desktop/build/CMakeFiles/MiniOS_autogen.dir
